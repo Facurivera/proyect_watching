@@ -4,13 +4,12 @@ Este proyecto incluye un **backend en Node.js con Express** y un **frontend en R
 
 ## 🛠️ Instrucciones
 
-
-cd backend
-npm install
-node index.js
+1. cd backend
+2. npm install
+3. node index.js
 
 ### 2. frontend
 
-cd frontend
-npm install
-npm run dev
+1. cd frontend
+2. npm install
+3. npm run dev
