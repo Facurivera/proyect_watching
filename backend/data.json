@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nombre": "Juan Pérez", "ciudad": "Córdoba", "cargo": "Analista" },
+  { "id": 2, "nombre": "Ana López", "ciudad": "Rosario", "cargo": "Diseñadora" },
+  { "id": 3, "nombre": "Pedro Gómez", "ciudad": "Buenos Aires", "cargo": "Desarrollador" }
+]
